@@ -3,10 +3,10 @@ Conducted analysis for Shield Insurance, covering KPIs such as total revenue and
 ***
 ***Shield Insurance Power BI Project: A Step-by-Step Execution Plan:***
 
-Step 1: To Understand the problem statement for the client 
-Step 2: Prepare the mock up for the client 
-Step 3: Extract Transform Load 
-Step 4: Data Modelling 
-Step 5: Created calculated columns using DAX 
-Step 6: Created measures using DAX 
-Step 7: Dashboard Analysis
+- Step 1: To Understand the problem statement for the client 
+- Step 2: Prepare the mock up for the client 
+- Step 3: Extract Transform Load 
+- Step 4: Data Modelling 
+- Step 5: Created calculated columns using DAX 
+- Step 6: Created measures using DAX 
+- Step 7: Dashboard Analysis
