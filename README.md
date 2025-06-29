@@ -17,4 +17,8 @@ Shield Insurance requires a comprehensive analysis of key performance indicators
 
 Delivered an interactive and user-friendly dashboard for Shield Insurance that tracked total revenue, segmented customer data, monitored monthly trends, and evaluated sales method performance by age group, policy, and city, driving informed and data-driven decisions.
 
+**Project Link**
+
+https://app.powerbi.com/view?r=eyJrIjoiZjM4ZmRiMDEtODkxYS00OTNmLWJlMjEtY2Q1OGE0MjU3NTY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
